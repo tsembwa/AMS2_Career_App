@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="Label">
+        <Setter Property="FontSize" Value="20"/>
+    </Style>
+    
+    <Style TargetType="Label" x:Key="ErrorMsg">
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="Foreground" Value="red"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+    </Style>
+</ResourceDictionary>

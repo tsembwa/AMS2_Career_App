@@ -1,0 +1,135 @@
+﻿[
+  {
+    "Name": "Ginetta Junior Cup",
+    "Cars": [
+      {
+        "Name": "Ginetta G40 Cup",
+        "Class": "GT5",
+        "Dlc": "Base Game"
+      }
+    ],
+    "DurationType": "Timed",
+    "Events": [
+      {
+        "Name": "Donington Park GP",
+        "Date": "2026-04-05",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Donington",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Donington",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Silverstone GP",
+        "Date": "2026-04-19",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Silverstone",
+          "Layout": "GP",
+          "Dlc": "Silverstone Pack"
+        },
+        "AlternateTrack": {
+          "Name": "Spielberg",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Oulton Park Island",
+        "Date": "2026-05-10",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Oulton Park",
+          "Layout": "Island",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Oulton Park",
+          "Layout": "Island",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Croft",
+        "Date": "2026-06-07",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Brasilia",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Brasilia",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Zandvoort GP",
+        "Date": "2026-07-12",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Imola",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Imola",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Snetterton 300",
+        "Date": "2026-08-09",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Snetterton",
+          "Layout": "300",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Snetterton",
+          "Layout": "300",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Donington Park National",
+        "Date": "2026-09-06",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Donington",
+          "Layout": "National",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Donington",
+          "Layout": "National",
+          "Dlc": "Base Game"
+        }
+      },
+      {
+        "Name": "Brands Hatch GP",
+        "Date": "2026-09-20",
+        "Duration": 20,
+        "MainTrack": {
+          "Name": "Brands Hatch",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        },
+        "AlternateTrack": {
+          "Name": "Brands Hatch",
+          "Layout": "GP",
+          "Dlc": "Base Game"
+        }
+      }
+    ]
+  }
+]

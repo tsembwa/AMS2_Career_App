@@ -1,0 +1,80 @@
+﻿[
+  {
+    "Name": "Rising Star Motorsport",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  },
+  {
+    "Name": "NextGen Racing Academy",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  },
+  {
+    "Name": "Junior Drive Performance",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  },
+  {
+    "Name": "Future Talent Autosport",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  },
+  {
+    "Name": "Trackside Development Racing",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  },
+  {
+    "Name": "Aspire Motorsport Club",
+    "Championships": [{
+      "Name": "Ginetta Junior Cup",
+      "Cars": [
+        {
+          "Name": "Ginetta G40 Cup",
+          "Class": "GT5",
+          "Drivers": 2
+        }
+      ]
+    }]
+  }
+]
